@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-
+```
 if ( isCoffee() ) {                    
      sam.code();
 }else{
      sam.getCoffee();
 }                      
-
+```
 <!--
 **sam1231ui/sam1231ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
