@@ -4,7 +4,7 @@
 if ( isCoffee() ) {                    
      sam.code();
 }else{
-     sam.getCoffee();
+     sam.gettingCoffee();
 }                      
 ```
 <!--
