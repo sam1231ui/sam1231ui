@@ -8,7 +8,7 @@ if ( isCoffee() ) {
 }                      
 ```
 ### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />] 
+[<img align="left" alt="Java" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImXEhib9x_7RW-89htgA8h5oFl3KIxAZHi1cyEjHOgw&s)" style="padding-right:10px;" />] 
 [<img align="left" alt="CPP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />] 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />] 
