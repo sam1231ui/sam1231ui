@@ -7,19 +7,25 @@ if ( isCoffee() ) {
      sam.gettingCoffee();
 }                      
 ```
-### Languages and Tools 🛠 
+### Languages and Frameworks 📚 
 <img align="left" alt="CPP" width="30px" src="https://img.icons8.com/?size=512&id=40669&format=png" style="padding-right:10px;"/>
 <img align="left" alt="JAVA" width="30px" src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" style="padding-right:10px;"/>
-<img align="left" alt="JAVA" width="30px" src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" style="padding-right:10px;"/>
+<img align="left" alt="JS" width="30px" src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" style="padding-right:10px;"/>
+<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" style="padding-right:10px;"/>
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NODE" width="70px" src="https://nodejs.org/static/images/logo.svg"  />
+
+<br/>
+<br/>
+
+### Tools 🛠
 <img align="left" alt="GITHUB" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" />
 <img align="left" alt="GIT" width="30px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
-<img align="left" alt="NODE" width="70px" src="https://nodejs.org/static/images/logo.svg"  />
 <img align="left" alt="VS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Eclipse"  src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff" />
-<br/>
-<br/>
+<br>
+<br>
 
 ### 📫 How to reach me: 
 <p> 
