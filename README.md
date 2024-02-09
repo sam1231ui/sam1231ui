@@ -6,16 +6,6 @@ if ( isCoffee() ) {
      sam.gettingCoffee();
 }                      
 ```
-###  Languages📚 and  Frameworks ⚙ 
-<img align="left" alt="CPP" width="30px" src="https://img.icons8.com/?size=512&id=40669&format=png" style="padding-right:10px;"/>
-<img align="left" alt="JAVA" width="30px" src="https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png" style="padding-right:10px;"/>
-<img align="left" alt="JS" width="30px" src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" style="padding-right:10px;"/>
-<img align="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png" style="padding-right:10px;"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NODE" width="70px" src="https://nodejs.org/static/images/logo.svg"  />
-<img align="left" alt="Spring" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/120px-Spring_Boot.svg.png"  />
-<br>
-<br>
 
 ### Tools 🛠 
 
